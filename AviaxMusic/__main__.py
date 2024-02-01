@@ -40,10 +40,10 @@ async def init():
     await userbot.start()
     await Aviax.start()
     try:
-        await Aviax.stream_call("https://te.legra.ph/file/29f784eb49d230ab62e9e.mp4")
+        await Aviax.stream_call("https://graph.org/file/6165fc07edd6907f77401.jpg")
     except NoActiveGroupCall:
         LOGGER("AviaxMusic").error(
-            "Please turn on the videochat of your log group\channel.\n\nStopping Bot..."
+            "𝙱𝙴𝙷𝙴𝙽 𝙺𝙴 𝙻𝙰𝚄𝙳𝙴 𝙻𝙾𝙶 𝙶𝚁𝙾𝚄𝙿 𝙺𝙸 𝚅𝙲 𝙾𝙽 𝙺𝙾𝙽 𝚃𝙴𝚁𝙰 𝙱𝙰𝙰𝙿 𝙺𝙰𝚁𝙴𝙶𝙰\channel.\n\nStopping Bot..."
         )
         exit()
     except:
@@ -55,7 +55,7 @@ async def init():
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("AviaxMusic").info("Stopping Aviax Music Bot...")
+    LOGGER("AviaxMusic").info("Stopping 𝐂-𝐅 ✘ 𝐌𝐮𝐬𝐢𝐜...")
 
 
 if __name__ == "__main__":
