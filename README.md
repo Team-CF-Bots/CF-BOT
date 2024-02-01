@@ -1,7 +1,7 @@
 <h1 align="center"> ˹ 𝐂-𝐅 ✘ 𝐌𝐮𝐬𝐢𝐜 ˼ </h1>
 
 <p align="center">
-  <img src="https://graph.org/file/d1bc2493a1f3923b7ae06.jpg" alt="Aviax Music Logo" width="600" height="150">
+  <img src="https://graph.org/file/d1bc2493a1f3923b7ae06.jpg" alt="𝐂-𝐅 ✘ 𝐌𝐮𝐬𝐢𝐜" width="600" height="150">
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
       ─「 <\> 𝙳𝚎𝚙𝚕𝚘𝚢 𝙾𝚗 𝙷𝚎𝚛𝚘𝚔𝚞 <\> 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Team-CF-Bots/CF-BOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-azure?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Team-CF-Bots/CF-BOT"> <img src="https://img.shields.io/badge/Deploy%20On%20𝐇𝐄𝐑𝐎𝐊𝐔-azure?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
@@ -137,5 +137,5 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 
 ### 🙏 Acknowledgements
 
-Special Thanks To All The Contributors , Supporters , And Users Of The C-F Music Bot. Your Feedback And Support Keep Us Going !
+Special Thanks To All The Contributors , Supporters , And Users Of The 𝐂-𝐅 ✘ 𝐌𝐮𝐬𝐢𝐜. Your Feedback And Support Keep Us Going !
 - [Yukki Music](https://github.com/TeamYukki/YukkiMusicBot) , [AviaxMusic](https://github.com/TeamAviax/AviaxMusic) And [AnonXMusic](https://github.com/AnonymousX1025/AnonXMusic) For Their Source Codes.
