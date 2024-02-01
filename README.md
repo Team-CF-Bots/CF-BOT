@@ -1,7 +1,7 @@
 <h1 align="center"> ˹ 𝐂-𝐅 ✘ 𝐌𝐮𝐬𝐢𝐜 ˼ </h1>
 
 <p align="center">
-  <img src="https://graph.org/file/d1bc2493a1f3923b7ae06.jpg" alt="𝐂-𝐅 ✘ 𝐌𝐮𝐬𝐢𝐜" width="1800" height="1500">
+  <img src="https://graph.org/file/d1bc2493a1f3923b7ae06.jpg" alt="𝐂-𝐅 ✘ 𝐌𝐮𝐬𝐢𝐜" width="1200" height="900">
 </p>
 
 <p align="center">
