@@ -1,7 +1,7 @@
 <h1 align="center"> ˹ 𝐂-𝐅 ✘ 𝐌𝐮𝐬𝐢𝐜 ˼ </h1>
 
 <p align="center">
-  <img src="https://graph.org/file/d1bc2493a1f3923b7ae06.jpg" alt="𝐂-𝐅 ✘ 𝐌𝐮𝐬𝐢𝐜" width="600" height="150">
+  <img src="https://graph.org/file/d1bc2493a1f3923b7ae06.jpg" alt="𝐂-𝐅 ✘ 𝐌𝐮𝐬𝐢𝐜" width="1800" height="1500">
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
       ─「 <\> 𝙳𝚎𝚙𝚕𝚘𝚢 𝙾𝚗 𝙷𝚎𝚛𝚘𝚔𝚞 <\> 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Team-CF-Bots/CF-BOT"> <img src="https://img.shields.io/badge/Deploy%20On%20𝐇𝐄𝐑𝐎𝐊𝐔-azure?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Team-CF-Bots/CF-BOT"> <img src="https://img.shields.io/badge/𝐃𝐄𝐏𝐋Ø𝐘%20Ø𝐍%20𝐇𝐄𝐑Ø𝐊𝐔-azure?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
